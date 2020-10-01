@@ -20,8 +20,15 @@
 // INSERT INTO public.soldshares VALUES (DEFAULT, 4, 6, '2020-08-05', 200, 20);
 
 
+// Inserting frontendteam@gmail.com infomration
+// INSERT INTO public.portfolio VALUES (DEFAULT, 3, 'frontend first portfolio', DEFAULT, DEFAULT);
+// INSERT INTO public.portfolio VALUES (DEFAULT, 3, 'frondend second portfolio', DEFAULT, DEFAULT);
 
+// INSERT INTO public.shares VALUES (DEFAULT, 3, 'FB', '2020-07-15', 300, 100);
+// INSERT INTO public.shares VALUES (DEFAULT, 3, 'AAPL', '2020-08-03', 120, 100);
 
+// INSERT INTO public.shares VALUES (DEFAULT, 4, 'TWTR', '2020-09-10', 45, 120);
+// INSERT INTO public.shares VALUES (DEFAULT, 4, 'MSFT', '2020-07-07', 200, 100);
 
 
 
